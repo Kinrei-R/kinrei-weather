@@ -11,7 +11,7 @@ A high-end, responsive weather application designed with a minimalist aesthetic 
     
     Advanced Metrics: Real-time tracking of wind speed, humidity, visibility, and "feels like" temperatures.
 
-    Sophisticated Design: A dark-mode interface featuring custom typography (Cormorant Garamond & Outfit) and subtle grain textures.
+    Sophisticated Design: A dark-mode interface featuring custom typography and subtle grain textures.
 
 ### 🛠 Tech Stack
 
